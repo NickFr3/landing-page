@@ -62,7 +62,46 @@ a {
 .info-title {
     color: #1f2937;
     font-size: 36px;
-    font-weight: bolder;
+    font-weight: 900;
+}
+
+.info-image {
+    width: 100px;
+}
+
+.info-text {
+    font-size: 12px;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.quote-name {
+    font-weight: 700;
+}
+
+.action-bar {
+    background-color: #3882f6;
+}
+
+.action-text {
+    color: white;
+}
+
+.action-title {
+    font-weight: 500;
+}
+
+.action-subtitle {
+    font-weight: 300;
 }
 
 .footer {
