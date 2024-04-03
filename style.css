@@ -107,6 +107,9 @@ a {
 
 .quote-section {
     background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 64px 25vw;
 }
 
 .quote-text {
@@ -118,6 +121,7 @@ a {
 
 .quote-name {
     font-weight: 700;
+    align-self: flex-end;
 }
 
 .action-bar {
